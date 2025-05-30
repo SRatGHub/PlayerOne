@@ -3185,3 +3185,1413 @@ Sampler Limit: 32
 [2025.05.28-23.14.49:041][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87680.515625
 [2025.05.28-23.14.50:041][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.28-23.14.50:041][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87681.187500, Update Interval: 348.573883
+[2025.05.28-23.21.35:117][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88089.656250
+[2025.05.28-23.21.36:118][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.21.36:118][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88090.328125, Update Interval: 324.888458
+[2025.05.28-23.21.40:137][ 24]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.28-23.27.41:845][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88459.164062
+[2025.05.28-23.27.42:845][111]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.27.42:846][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88459.835938, Update Interval: 308.489014
+[2025.05.28-23.33.31:573][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88811.562500
+[2025.05.28-23.33.32:573][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.33.32:573][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88812.234375, Update Interval: 346.687836
+[2025.05.28-23.39.50:869][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89193.742188
+[2025.05.28-23.39.51:870][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.39.51:870][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89194.414062, Update Interval: 336.830963
+[2025.05.28-23.46.20:284][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89586.117188
+[2025.05.28-23.46.21:285][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.46.21:285][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89586.789062, Update Interval: 314.002502
+[2025.05.28-23.52.06:019][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89934.476562
+[2025.05.28-23.52.07:018][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.52.07:018][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89935.148438, Update Interval: 359.523926
+[2025.05.28-23.58.47:388][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90338.867188
+[2025.05.28-23.58.48:388][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-23.58.48:389][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90339.539062, Update Interval: 310.451965
+[2025.05.29-00.04.54:497][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90708.734375
+[2025.05.29-00.04.55:497][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.04.55:497][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90709.406250, Update Interval: 321.795715
+[2025.05.29-00.11.05:235][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91082.281250
+[2025.05.29-00.11.06:237][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.11.06:237][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91082.953125, Update Interval: 316.846222
+[2025.05.29-00.12.24:901][364]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-00.12.24:901][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-00.12.25:007][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.29-00.12.38:379][730]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.29-00.12.38:390][730]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.29-00.12.38:405][731]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.29-00.12.44:358][906]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2025.05.29-00.12.44:359][906]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.29-00.13.04:310][190]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.29-00.13.04:321][190]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.29-00.13.04:346][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.29-00.17.12:951][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91437.992188
+[2025.05.29-00.17.13:090][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.17.13:090][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91438.101562, Update Interval: 354.482849
+[2025.05.29-00.21.40:137][275]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-00.23.46:397][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91811.656250
+[2025.05.29-00.23.46:532][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.23.46:532][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91811.750000, Update Interval: 342.840668
+[2025.05.29-00.26.55:190][462]LogContentBrowser: Attempting asset rename: NewFolder -> Turret
+[2025.05.29-00.26.55:191][462]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.29-00.27.05:645][685]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.29-00.27.05:654][685]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.29-00.27.05:663][685]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.29-00.27.05:666][685]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-00.27.05:686][687]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.29-00.27.13:801][924]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret_BP
+[2025.05.29-00.27.13:826][924]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.29-00.27.38:366][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2025.05.29-00.27.38:372][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.038
+[2025.05.29-00.27.38:373][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-00.27.38:373][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-00.27.38:378][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto7
+[2025.05.29-00.27.38:378][608]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto75D700A574086D44554DACDB6B7309064.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto7.uasset'
+[2025.05.29-00.27.38:379][608]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.05.29-00.30.03:224][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92172.078125
+[2025.05.29-00.30.03:366][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.30.03:367][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92172.187500, Update Interval: 354.023254
+[2025.05.29-00.36.39:650][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92549.070312
+[2025.05.29-00.36.39:817][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.36.39:817][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92549.195312, Update Interval: 322.011780
+[2025.05.29-00.42.43:864][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92895.007812
+[2025.05.29-00.42.44:010][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.42.44:010][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92895.117188, Update Interval: 313.061310
+[2025.05.29-00.48.38:452][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93233.500000
+[2025.05.29-00.48.39:452][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.48.39:452][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 93234.171875, Update Interval: 342.197937
+[2025.05.29-00.48.51:173][ 86]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.29-00.48.51:182][ 86]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.29-00.48.51:190][ 86]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.29-00.48.51:192][ 86]LogAutomationController: Ignoring very large delta of 4.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-00.48.51:204][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.29-00.49.08:920][605]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turrent_Proj_BP
+[2025.05.29-00.49.08:930][605]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.29-00.49.38:309][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.29-00.49.38:311][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.032
+[2025.05.29-00.49.38:311][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.29-00.49.38:311][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.29-00.49.38:316][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto8
+[2025.05.29-00.49.38:316][424]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP_Auto842F4983C4DF45018B350F7A34A6DEB1B.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto8.uasset'
+[2025.05.29-00.49.38:317][424]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.05.29-00.55.16:829][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93613.281250
+[2025.05.29-00.55.16:963][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-00.55.16:963][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 93613.375000, Update Interval: 308.498169
+[2025.05.29-01.01.16:383][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93955.351562
+[2025.05.29-01.01.16:517][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.01.16:517][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 93955.445312, Update Interval: 312.977081
+[2025.05.29-01.07.20:968][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94301.140625
+[2025.05.29-01.07.21:125][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.07.21:125][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94301.234375, Update Interval: 343.878906
+[2025.05.29-01.13.56:351][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94677.007812
+[2025.05.29-01.13.56:485][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.13.56:485][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94677.101562, Update Interval: 302.186340
+[2025.05.29-01.19.33:000][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95004.507812
+[2025.05.29-01.19.34:001][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.19.34:001][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95005.179688, Update Interval: 332.998444
+[2025.05.29-01.21.40:138][913]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-01.26.03:426][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95397.890625
+[2025.05.29-01.26.04:426][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.26.04:426][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95398.562500, Update Interval: 343.331390
+[2025.05.29-01.32.20:825][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95778.171875
+[2025.05.29-01.32.21:825][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.32.21:825][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95778.843750, Update Interval: 301.585754
+[2025.05.29-01.38.09:560][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96129.554688
+[2025.05.29-01.38.10:559][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.38.10:559][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96130.226562, Update Interval: 345.761292
+[2025.05.29-01.44.40:645][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96523.609375
+[2025.05.29-01.44.41:646][ 56]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.44.41:646][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96524.281250, Update Interval: 313.953064
+[2025.05.29-01.50.41:355][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96887.093750
+[2025.05.29-01.50.42:355][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.50.42:356][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96887.765625, Update Interval: 349.511414
+[2025.05.29-01.57.24:761][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 97293.578125
+[2025.05.29-01.57.25:761][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-01.57.25:761][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 97294.250000, Update Interval: 321.477112
+[2025.05.29-02.03.34:484][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 97666.132812
+[2025.05.29-02.03.35:483][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.03.35:483][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 97666.804688, Update Interval: 316.650299
+[2025.05.29-02.09.48:500][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98043.039062
+[2025.05.29-02.09.49:500][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.09.49:501][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98043.710938, Update Interval: 339.797363
+[2025.05.29-02.16.23:834][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98441.453125
+[2025.05.29-02.16.24:834][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.16.24:834][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98442.125000, Update Interval: 301.038239
+[2025.05.29-02.21.40:139][711]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-02.22.07:504][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98787.804688
+[2025.05.29-02.22.08:504][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.22.08:504][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98788.476562, Update Interval: 311.594604
+[2025.05.29-02.28.04:504][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99147.593750
+[2025.05.29-02.28.05:504][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.28.05:504][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99148.265625, Update Interval: 308.351685
+[2025.05.29-02.33.56:509][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99502.335938
+[2025.05.29-02.33.57:509][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.33.57:509][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99503.007812, Update Interval: 301.834778
+[2025.05.29-02.39.30:176][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99838.609375
+[2025.05.29-02.39.31:176][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.39.31:176][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99839.281250, Update Interval: 328.257690
+[2025.05.29-02.45.33:843][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 100205.117188
+[2025.05.29-02.45.34:843][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.45.34:844][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 100205.789062, Update Interval: 322.345032
+[2025.05.29-02.51.44:177][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 100578.343750
+[2025.05.29-02.51.45:177][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.51.45:177][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 100579.015625, Update Interval: 330.612518
+[2025.05.29-02.58.04:511][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 100961.632812
+[2025.05.29-02.58.05:511][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-02.58.05:511][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 100962.304688, Update Interval: 312.601715
+[2025.05.29-03.03.56:181][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101316.023438
+[2025.05.29-03.03.57:180][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.03.57:180][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 101316.695312, Update Interval: 347.559448
+[2025.05.29-03.10.39:849][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101722.812500
+[2025.05.29-03.10.40:849][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.10.40:849][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 101723.484375, Update Interval: 353.605774
+[2025.05.29-03.17.15:518][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102121.523438
+[2025.05.29-03.17.16:519][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.17.16:519][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102122.195312, Update Interval: 313.400055
+[2025.05.29-03.21.40:140][511]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-03.23.05:856][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102474.531250
+[2025.05.29-03.23.06:856][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.23.06:856][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102475.203125, Update Interval: 321.716980
+[2025.05.29-03.29.07:196][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102838.601562
+[2025.05.29-03.29.08:195][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.29.08:195][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102839.273438, Update Interval: 324.119385
+[2025.05.29-03.35.30:862][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103225.203125
+[2025.05.29-03.35.31:862][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.35.31:862][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103225.875000, Update Interval: 319.329193
+[2025.05.29-03.41.42:508][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103599.710938
+[2025.05.29-03.41.43:509][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.41.43:509][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103600.382812, Update Interval: 328.413330
+[2025.05.29-03.48.04:817][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103985.015625
+[2025.05.29-03.48.05:817][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.48.05:817][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103985.687500, Update Interval: 309.247101
+[2025.05.29-03.53.54:469][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 104337.343750
+[2025.05.29-03.53.55:470][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-03.53.55:470][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104338.015625, Update Interval: 332.141479
+[2025.05.29-04.00.01:141][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 104706.812500
+[2025.05.29-04.00.02:141][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.00.02:141][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104707.484375, Update Interval: 349.661560
+[2025.05.29-04.06.37:471][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 105106.109375
+[2025.05.29-04.06.38:471][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.06.38:471][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 105106.781250, Update Interval: 308.038574
+[2025.05.29-04.12.38:801][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 105470.164062
+[2025.05.29-04.12.39:801][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.12.39:801][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 105470.835938, Update Interval: 336.569122
+[2025.05.29-04.18.53:124][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 105847.351562
+[2025.05.29-04.18.54:124][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.18.54:124][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 105848.023438, Update Interval: 352.580353
+[2025.05.29-04.21.40:140][312]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-04.25.32:791][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106250.054688
+[2025.05.29-04.25.33:790][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.25.33:790][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106250.726562, Update Interval: 350.544128
+[2025.05.29-04.31.55:450][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106635.664062
+[2025.05.29-04.31.56:450][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-04.31.56:450][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106636.335938, Update Interval: 341.859192
+[2025.05.29-04.34.29:383][619]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.29-04.34.29:466][619]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.29-04.34.29:467][619]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22312
+[2025.05.29-04.34.29:799][620]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.29-04.34.29:803][620]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{aaa75565-2ca4-4d2a-a55e-008157a33d55}, Name=Headphones (5- High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=46.46
+[2025.05.29-04.34.29:803][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.29-04.34.29:806][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.29-21.22.21:911][628]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [60474 Seconds] waiting for h/w. InstanceID=1
+[2025.05.29-21.22.26:912][628]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.29-21.22.28:923][628]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.29-21.22.28:926][628]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: HTTP request timed out after 60472.97 seconds URL=https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.28:927][628]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: request failed, libcurl error: 0 (No error)
+[2025.05.29-21.22.28:927][628]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: libcurl info message cache 0 (Found bundle for host: 0xa7c710809f0 [serially])
+[2025.05.29-21.22.28:927][629]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.05.29-21.22.28:928][629]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.05.29-21.22.28:928][629]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: libcurl info message cache 3 (Closing connection)
+[2025.05.29-21.22.28:928][629]LogEOSSDK: Warning: LogHttp: 00000A7C891B6000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.29-21.22.28:928][629]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.28:929][629]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.05.29-21.22.32:304][629]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.29-21.22.32:304][629]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22312
+[2025.05.29-21.22.32:305][629]LogAutomationController: Ignoring very large delta of 60483.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 0 (Too old connection (60501 seconds idle), disconnect it)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 1 (Connection 17 seems to be dead)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 2 (Closing connection)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.29-21.22.32:306][629]LogHttp: Warning: 00000A7C6DE86200: libcurl info message cache 7 (Closing connection)
+[2025.05.29-21.22.32:516][629]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56946'.
+[2025.05.29-21.22.32:529][629]Could not fetch the local adapter addresses
+[2025.05.29-21.22.32:529][629]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2025.05.29-21.22.32:554][630]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.29-21.22.32:555][630]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.29-21.22.32:558][630]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{aaa75565-2ca4-4d2a-a55e-008157a33d55}, Name=Headphones (5- High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=38.00
+[2025.05.29-21.22.32:558][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.29-21.22.32:562][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 1 (Closing connection)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B5400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1E90CCEC-4E34-78B0-60C6-118239F2D8C1%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B5400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B5400: libcurl info message cache 0 (Found bundle for host: 0xa7c71080510 [serially])
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B5400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891B5400: libcurl info message cache 2 (Closing connection)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 0 (Found bundle for host: 0xa7c71080510 [serially])
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 2 (Closing connection)
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.33:555][633]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.33:743][633]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59065'.
+[2025.05.29-21.22.33:753][633]Could not fetch the local adapter addresses
+[2025.05.29-21.22.33:753][633]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2025.05.29-21.22.33:887][634]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.29-21.22.33:888][634]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1E90CCEC-4E34-78B0-60C6-118239F2D8C1%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.29-21.22.34:888][637]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.34:888][637]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 3 (Closing connection)
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 3 (Found bundle for host: 0xa7c71080090 [serially])
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.35:222][638]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 5 (Closing connection)
+[2025.05.29-21.22.35:222][639]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.35:222][639]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.36:062][639]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52185'.
+[2025.05.29-21.22.36:067][639]LogUdpMessaging: Display: Added local interface '169.254.38.175' to multicast group '230.0.0.1:6666'
+[2025.05.29-21.22.36:412][641]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.36:412][641]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 5 (Closing connection)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 6 (Found bundle for host: 0xa7c710800f0 [serially])
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 8 (Closing connection)
+[2025.05.29-21.22.36:745][642]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.36:745][643]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DF43A56B45405361BDC946BC6E270583
+[2025.05.29-21.22.36:746][643]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.05.29-21.22.38:078][646]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.38:412][647]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.38:412][647]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.38:412][647]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.38:412][647]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 7 (Closing connection)
+[2025.05.29-21.22.38:412][647]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.39:412][650]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogHttp: 00000A7C891B3600: libcurl info message cache 9 (Closing connection)
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.39:746][651]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.05.29-21.22.40:413][653]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.05.29-21.22.40:746][654]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.29-21.22.40:746][654]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.29-21.22.40:746][654]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.29-21.22.40:746][654]LogEOSSDK: Warning: LogHttp: 00000A7C891BDE00: libcurl info message cache 1 (Closing connection)
+[2025.05.29-21.22.40:746][654]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.42:079][658]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.22.42:412][659]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.05.29-21.23.12:841][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 167315.828125
+[2025.05.29-21.23.13:840][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 167316.484375
+[2025.05.29-21.23.13:848][749]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 348165457
+[2025.05.29-21.23.13:848][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 167316.484375, Update Interval: 330.861542
+[2025.05.29-21.28.44:941][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 167642.843750
+[2025.05.29-21.28.45:941][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.28.45:941][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 167643.500000, Update Interval: 301.961121
+[2025.05.29-21.31.03:956][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP
+[2025.05.29-21.31.03:970][251]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.05.29-21.31.07:665][345]LogSlate: Window 'Turret_BP' being destroyed
+[2025.05.29-21.31.11:520][712]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.05.29-21.31.31:182][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-21.31.31:237][694]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-21.31.31:248][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-21.31.31:248][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-21.31.31:248][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-21.31.31:257][694]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-21.31.31:257][694]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPD7040AEE4BC46486AC93748E46C48CB5.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-21.31.31:293][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.485 ms (total: 3.53 sec)
+[2025.05.29-21.31.31:353][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-21.31.31:353][694]LogContentValidation: Enabled validators:
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-21.31.31:354][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-21.31.31:355][694]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-21.31.32:481][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2025.05.29-21.32.30:558][550]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Turret_BP_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.100 Y=0.000 Z=0.200
+[2025.05.29-21.32.30:559][550]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Turret_BP_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.100 Y=0.000 Z=0.200
+[2025.05.29-21.32.30:560][550]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Turret_BP_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.100 Y=0.000 Z=0.200
+[2025.05.29-21.32.30:560][550]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Turret_BP_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.100 Y=0.000 Z=0.200
+[2025.05.29-21.32.30:603][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.05.29-21.32.30:607][550]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.032
+[2025.05.29-21.32.30:607][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-21.32.30:617][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-21.32.30:617][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-21.32.30:623][550]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto9
+[2025.05.29-21.32.30:623][550]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto96686E165439413169CC534BC09CAD767.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto9.uasset'
+[2025.05.29-21.32.30:625][550]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.05.29-21.33.10:144][308]Cmd: MODE GRID=0
+[2025.05.29-21.33.51:190][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168018.984375
+[2025.05.29-21.33.51:259][430]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.33.51:259][430]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168019.078125, Update Interval: 301.340363
+[2025.05.29-21.38.58:083][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168500.625000
+[2025.05.29-21.38.58:159][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.38.58:160][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168500.734375, Update Interval: 313.877991
+[2025.05.29-21.42.30:760][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.29-21.42.30:764][881]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.036
+[2025.05.29-21.42.30:764][881]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-21.42.30:774][881]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-21.42.30:774][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-21.42.30:780][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto0
+[2025.05.29-21.42.30:780][881]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto02516198E490ACF053CCA7C9C035FAC41.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto0.uasset'
+[2025.05.29-21.42.30:781][881]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.05.29-21.44.26:788][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168989.859375
+[2025.05.29-21.44.26:888][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.44.26:888][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168990.000000, Update Interval: 314.346741
+[2025.05.29-21.44.48:176][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-21.44.48:229][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-21.44.48:229][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-21.44.48:229][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-21.44.48:234][809]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-21.44.48:235][809]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPEE9095CE46A940DBBB55B8AF6177A2DE.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-21.44.48:245][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.524 ms (total: 3.59 sec)
+[2025.05.29-21.44.48:295][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-21.44.48:295][809]LogContentValidation: Enabled validators:
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-21.44.48:295][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-21.44.48:295][809]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-21.48.36:777][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-21.48.36:830][778]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-21.48.36:839][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-21.48.36:839][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-21.48.36:840][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-21.48.36:846][778]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-21.48.36:847][778]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPBA9BB2AC4DC4D12489283498C6491BAA.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-21.48.36:856][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.925 ms (total: 3.67 sec)
+[2025.05.29-21.48.36:913][778]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-21.48.36:913][778]LogContentValidation: Enabled validators:
+[2025.05.29-21.48.36:913][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-21.48.36:913][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-21.48.36:913][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-21.48.36:913][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-21.48.36:914][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-21.48.36:914][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-21.48.36:914][778]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-21.48.38:415][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.29-21.50.10:637][578]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 169522.828125
+[2025.05.29-21.50.10:722][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.50.10:723][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 169522.953125, Update Interval: 308.785675
+[2025.05.29-21.55.58:384][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 170081.921875
+[2025.05.29-21.55.59:384][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-21.55.59:384][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 170082.578125, Update Interval: 304.138306
+[2025.05.29-22.01.57:117][376]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 170434.984375
+[2025.05.29-22.01.58:118][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.01.58:118][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 170435.640625, Update Interval: 311.041595
+[2025.05.29-22.07.57:864][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 170790.046875
+[2025.05.29-22.07.58:864][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.07.58:864][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 170790.703125, Update Interval: 333.877380
+[2025.05.29-22.08.39:032][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-22.08.39:083][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.08.39:093][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.08.39:093][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.08.39:093][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-22.08.39:100][454]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-22.08.39:101][454]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPD1E5592C464AA5445BA1E98A1030539C.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-22.08.39:111][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.455 ms (total: 3.75 sec)
+[2025.05.29-22.08.39:166][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-22.08.39:166][454]LogContentValidation: Enabled validators:
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-22.08.39:166][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-22.08.39:166][454]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-22.08.39:677][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.29-22.09.26:509][125]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-22.10.24:772][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.29-22.10.24:777][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.054
+[2025.05.29-22.10.24:777][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.10.24:850][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.10.24:851][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.10.24:857][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto1
+[2025.05.29-22.10.24:857][886]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto17F0ED2964C199FB83D7915B4856A0A35.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto1.uasset'
+[2025.05.29-22.10.24:859][886]LogFileHelpers: Auto-saving content packages took 0.082
+[2025.05.29-22.14.27:036][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 171249.875000
+[2025.05.29-22.14.27:111][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.14.27:111][402]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 171250.000000, Update Interval: 324.747467
+[2025.05.29-22.20.24:863][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.29-22.20.24:867][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.29-22.20.24:867][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.20.24:938][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.20.24:938][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.20.24:946][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto2
+[2025.05.29-22.20.24:946][263]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto2B991716D44FA96D529C71187A0CA0AB4.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto2.uasset'
+[2025.05.29-22.20.24:947][263]LogFileHelpers: Auto-saving content packages took 0.081
+[2025.05.29-22.20.32:706][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 171920.312500
+[2025.05.29-22.20.33:706][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.20.33:706][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 171920.968750, Update Interval: 341.646790
+[2025.05.29-22.27.02:380][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 172622.609375
+[2025.05.29-22.27.02:472][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.27.02:472][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 172622.765625, Update Interval: 343.051239
+[2025.05.29-22.30.24:883][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.29-22.30.24:886][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.028
+[2025.05.29-22.30.24:887][703]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.30.24:956][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.30.24:956][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.30.24:964][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto3
+[2025.05.29-22.30.24:964][703]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto3BE1FA8014570B46C25389E90CD8FCE31.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto3.uasset'
+[2025.05.29-22.30.24:965][703]LogFileHelpers: Auto-saving content packages took 0.080
+[2025.05.29-22.33.24:613][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 173322.828125
+[2025.05.29-22.33.24:687][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.33.24:687][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 173322.953125, Update Interval: 359.113739
+[2025.05.29-22.36.34:254][  6]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.29-22.36.36:856][244]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50520'.
+[2025.05.29-22.36.36:863][244]Could not fetch the local adapter addresses
+[2025.05.29-22.36.36:863][244]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2025.05.29-22.40.21:333][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174079.625000
+[2025.05.29-22.40.21:399][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.40.21:399][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174079.734375, Update Interval: 350.990936
+[2025.05.29-22.45.42:217][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-22.45.42:270][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.45.42:270][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.45.42:270][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-22.45.42:278][581]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-22.45.42:279][581]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP8B53BC9C42040098C9E94AB5CCC5A424.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-22.45.42:292][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.860 ms (total: 3.83 sec)
+[2025.05.29-22.45.42:336][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-22.45.42:336][581]LogContentValidation: Enabled validators:
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-22.45.42:336][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-22.45.42:336][581]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-22.45.43:447][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.29-22.46.07:908][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-22.46.07:963][589]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.46.08:050][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.46.08:050][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.46.08:050][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.29-22.46.08:059][589]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.29-22.46.08:060][589]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP25E438C949789B4E01914894B50A2C0E.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.29-22.46.08:070][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.596 ms (total: 3.99 sec)
+[2025.05.29-22.46.08:125][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-22.46.08:125][589]LogContentValidation: Enabled validators:
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-22.46.08:126][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-22.46.08:126][589]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.29-22.46.08:622][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.29-22.46.51:114][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174761.515625
+[2025.05.29-22.46.51:190][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.46.51:190][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174761.640625, Update Interval: 312.158569
+[2025.05.29-22.47.10:105][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.29-22.47.10:107][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.028
+[2025.05.29-22.47.10:107][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.47.10:197][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.47.10:197][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.47.10:204][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto4
+[2025.05.29-22.47.10:204][608]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto4D16BAFEC4D971BD50DA0DCB4A2D723B2.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto4.uasset'
+[2025.05.29-22.47.10:206][608]LogFileHelpers: Auto-saving content packages took 0.099
+[2025.05.29-22.52.43:550][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 175174.718750
+[2025.05.29-22.52.44:550][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.52.44:550][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 175175.375000, Update Interval: 346.279480
+[2025.05.29-22.57.10:692][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.29-22.57.10:694][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.041
+[2025.05.29-22.57.10:694][305]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-22.57.10:787][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-22.57.10:787][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-22.57.10:795][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto5
+[2025.05.29-22.57.10:796][305]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto5C3DA581D4D36F8A1299B0FA5D528EA7F.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto5.uasset'
+[2025.05.29-22.57.10:797][305]LogFileHelpers: Auto-saving content packages took 0.103
+[2025.05.29-22.59.23:403][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 175568.281250
+[2025.05.29-22.59.24:403][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-22.59.24:403][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 175568.937500, Update Interval: 342.902924
+[2025.05.29-23.05.53:806][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 175952.515625
+[2025.05.29-23.05.54:806][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.05.54:806][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 175953.171875, Update Interval: 312.380127
+[2025.05.29-23.09.26:509][513]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-23.11.45:535][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176298.687500
+[2025.05.29-23.11.46:536][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.11.46:536][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176299.343750, Update Interval: 342.435974
+[2025.05.29-23.18.15:617][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176682.593750
+[2025.05.29-23.18.16:617][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.18.16:617][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176683.250000, Update Interval: 348.282715
+[2025.05.29-23.24.51:705][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177072.484375
+[2025.05.29-23.24.52:705][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.24.52:705][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177073.140625, Update Interval: 353.708313
+[2025.05.29-23.30.01:397][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.05.29-23.30.01:398][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.29-23.30.01:399][440]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-23.30.01:477][440]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-23.30.01:477][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-23.30.01:485][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto6
+[2025.05.29-23.30.01:485][440]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto65883A2D6472FE484B12EC2A716DA2E52.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto6.uasset'
+[2025.05.29-23.30.01:487][440]LogFileHelpers: Auto-saving content packages took 0.089
+[2025.05.29-23.31.35:652][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177606.171875
+[2025.05.29-23.31.35:744][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.31.35:744][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177606.328125, Update Interval: 349.302643
+[2025.05.29-23.38.22:400][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178322.640625
+[2025.05.29-23.38.22:474][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.38.22:474][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178322.718750, Update Interval: 353.874939
+[2025.05.29-23.40.01:469][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.29-23.40.01:471][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.029
+[2025.05.29-23.40.01:472][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-23.40.01:562][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-23.40.01:562][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-23.40.01:571][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto7
+[2025.05.29-23.40.01:572][330]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto7A44A50C1453B639614970894A62A7257.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto7.uasset'
+[2025.05.29-23.40.01:574][330]LogFileHelpers: Auto-saving content packages took 0.102
+[2025.05.29-23.44.50:025][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179004.046875
+[2025.05.29-23.44.50:092][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.44.50:092][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179004.140625, Update Interval: 343.342377
+[2025.05.29-23.49.46:588][346]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.05.29-23.49.51:236][883]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.05.29-23.50.50:092][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.29-23.50.50:095][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.29-23.50.50:095][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.29-23.50.50:172][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.29-23.50.50:172][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.29-23.50.50:181][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto8
+[2025.05.29-23.50.50:181][175]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto839BB46B34E35D108189B83A995F38885.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto8.uasset'
+[2025.05.29-23.50.50:183][175]LogFileHelpers: Auto-saving content packages took 0.088
+[2025.05.29-23.51.25:430][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179670.468750
+[2025.05.29-23.51.25:497][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.51.25:497][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179670.578125, Update Interval: 355.528442
+[2025.05.29-23.58.20:338][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180418.031250
+[2025.05.29-23.58.20:431][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-23.58.20:431][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180418.187500, Update Interval: 336.942657
+[2025.05.30-00.00.50:112][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.05.30-00.00.50:115][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.027
+[2025.05.30-00.00.50:116][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.00.50:191][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-00.00.50:191][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.00.50:201][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto9
+[2025.05.30-00.00.50:202][823]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto9034030C7435AF3479EC6029617342B19.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto9.uasset'
+[2025.05.30-00.00.50:204][823]LogFileHelpers: Auto-saving content packages took 0.089
+[2025.05.30-00.04.30:106][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181086.625000
+[2025.05.30-00.04.30:172][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.04.30:172][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181086.718750, Update Interval: 356.176636
+[2025.05.30-00.05.21:003][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-00.05.21:058][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.05.21:058][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.05.21:058][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-00.05.21:068][301]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-00.05.21:069][301]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPE28EDFB545FD48716B79CFB4DEC454EC.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-00.05.21:079][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.657 ms (total: 4.06 sec)
+[2025.05.30-00.05.21:142][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-00.05.21:142][301]LogContentValidation: Enabled validators:
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-00.05.21:142][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-00.05.21:142][301]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-00.09.26:510][454]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-00.10.56:430][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.30-00.10.56:433][365]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.30-00.10.56:433][365]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.10.56:524][365]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-00.10.56:524][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.10.56:535][365]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto0
+[2025.05.30-00.10.56:536][365]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto0AA3F6E1143392AA564A4939CE214378D.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto0.uasset'
+[2025.05.30-00.10.56:538][365]LogFileHelpers: Auto-saving content packages took 0.105
+[2025.05.30-00.11.05:608][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181737.593750
+[2025.05.30-00.11.05:684][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.11.05:684][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181737.703125, Update Interval: 355.511963
+[2025.05.30-00.14.01:248][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-00.14.01:305][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.14.01:305][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.14.01:305][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-00.14.01:316][138]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-00.14.01:317][138]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP03481D1B4F6E065F8B179EAD7B945BF3.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-00.14.01:330][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.578 ms (total: 4.15 sec)
+[2025.05.30-00.14.01:387][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-00.14.01:387][138]LogContentValidation: Enabled validators:
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-00.14.01:387][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-00.14.01:387][138]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-00.17.58:747][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182414.906250
+[2025.05.30-00.17.58:846][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.17.58:846][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182415.062500, Update Interval: 355.316010
+[2025.05.30-00.18.10:959][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-00.18.11:021][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.18.11:099][998]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-00.18.11:099][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.18.11:099][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-00.18.11:111][998]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-00.18.11:112][998]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPB8E3137548E338AAA778BE9908BA5A06.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-00.18.11:122][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.437 ms (total: 4.31 sec)
+[2025.05.30-00.18.11:188][998]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-00.18.11:188][998]LogContentValidation: Enabled validators:
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-00.18.11:188][998]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-00.18.11:188][998]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-00.19.34:872][235]LogEditorTransaction: Undo Create Pin Link
+[2025.05.30-00.19.38:754][641]LogEditorTransaction: Undo Create Reroute Node
+[2025.05.30-00.19.41:451][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-00.19.41:517][896]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-00.19.41:602][896]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-00.19.41:602][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-00.19.41:602][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-00.19.41:614][896]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-00.19.41:615][896]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP1652F6C24555A7741DD1A7B38692175F.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-00.19.41:626][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.606 ms (total: 4.49 sec)
+[2025.05.30-00.19.41:681][896]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-00.19.41:681][896]LogContentValidation: Enabled validators:
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-00.19.41:681][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-00.19.41:681][896]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-00.19.42:507][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.30-00.19.52:132][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Turret/Turret_BP.Turret_BP_C
+[2025.05.30-00.19.52:132][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Turret/Turret_BP.Turret_BP_C
+[2025.05.30-00.19.52:136][503]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP as actor: Turret_BP_C /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.Turret_BP_C_0
+[2025.05.30-00.19.52:140][503]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP as actor: Turret_BP_C /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.Turret_BP_C_0
+[2025.05.30-00.19.53:924][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.30-00.19.53:966][551]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2025.05.30-00.19.53:974][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Turret/Turret_BP.Turret_BP_C
+[2025.05.30-00.19.53:974][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Turret/Turret_BP.Turret_BP_C
+[2025.05.30-00.19.53:987][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP as actor: Turret_BP_C /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.Turret_BP_C_1
+[2025.05.30-00.19.53:991][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP as actor: Turret_BP_C /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.Turret_BP_C_1
+[2025.05.30-00.20.14:460][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-00.20.14:479][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-00.20.14:480][ 86]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-00.20.14:483][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003736s)
+[2025.05.30-00.20.14:483][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003819s)
+[2025.05.30-00.20.14:515][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.30-00.20.14:522][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-00.20.14:525][ 86]LogPlayLevel: PIE: World Init took: (0.002768s)
+[2025.05.30-00.20.14:526][ 86]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-00.20.14:526][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-00.20.14:526][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-00.20.14:526][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-00.20.14:526][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-00.20.14:526][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-00.20.14:528][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-00.20.14:557][ 86]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-00.20.14:559][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-00.20.14:559][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-00.20.14:559][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-00.20.14:560][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.05.30-00.20.14:560][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.05.30-00.20.14:563][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.05.30-00.20.14:563][ 86]LogInit: FAudioDevice initialized with ID 14.
+[2025.05.30-00.20.14:563][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.05.30-00.20.14:563][ 86]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestEnvironment'.
+[2025.05.30-00.20.14:563][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.30-00.20.14:573][ 86]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-00.20.14:574][ 86]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-20.20.14
+[2025.05.30-00.20.14:575][ 86]LogWorld: Bringing up level for play took: 0.001804
+[2025.05.30-00.20.14:578][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.30-00.20.14:584][ 86]PIE: Server logged in
+[2025.05.30-00.20.14:586][ 86]PIE: Play in editor total start time 0.116 seconds.
+[2025.05.30-00.20.28:530][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-00.20.28:530][489]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-00.20.28:530][489]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-00.20.28:531][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-00.20.28:550][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-00.20.28:558][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-00.20.28:583][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-00.20.28:583][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.30-00.20.28:583][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.30-00.20.28:585][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.30-00.20.28:590][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-00.20.28:594][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.30-00.20.28:659][490]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.30-00.21.10:901][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.30-00.21.10:919][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TestEnvironment_Auto1
+[2025.05.30-00.21.10:922][671]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/TestEnvironment_Auto1F5616FDA47D4A38DE0EA1E993652A976.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Map/TestEnvironment_Auto1.umap'
+[2025.05.30-00.21.10:926][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.054
+[2025.05.30-00.21.10:926][671]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2025.05.30-00.21.10:926][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-00.21.10:926][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-00.21.10:930][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto1
+[2025.05.30-00.21.10:931][671]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP_Auto11D6087BC4A4396F6A64616A45B22E7D7.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto1.uasset'
+[2025.05.30-00.21.10:932][671]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.05.30-00.22.36:318][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-00.22.36:501][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.30-00.22.36:517][115]LogSavePackage: Moving output files for package: /Game/Map/TestEnvironment
+[2025.05.30-00.22.36:518][115]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/TestEnvironment3DBF598E4994BDFDDF12EE8F71E205C2.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Map/TestEnvironment.umap'
+[2025.05.30-00.22.36:537][115]LogFileHelpers: Saving map 'TestEnvironment' took 0.097
+[2025.05.30-00.22.36:545][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.052 ms (total: 4.71 sec)
+[2025.05.30-00.22.36:591][115]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-00.22.36:591][115]LogContentValidation: Enabled validators:
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-00.22.36:591][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-00.22.36:591][115]AssetCheck: /Game/Map/TestEnvironment Validating asset
+[2025.05.30-00.24.51:171][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182968.968750
+[2025.05.30-00.24.51:246][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.24.51:247][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182969.093750, Update Interval: 329.284943
+[2025.05.30-00.31.04:795][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183627.171875
+[2025.05.30-00.31.04:877][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.31.04:878][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183627.312500, Update Interval: 354.667816
+[2025.05.30-00.37.44:130][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184332.406250
+[2025.05.30-00.37.44:188][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.37.44:188][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184332.500000, Update Interval: 353.457458
+[2025.05.30-00.44.16:927][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184962.640625
+[2025.05.30-00.44.17:928][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.44.17:928][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184963.296875, Update Interval: 303.759277
+[2025.05.30-00.49.55:655][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 185296.015625
+[2025.05.30-00.49.56:655][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.49.56:655][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 185296.671875, Update Interval: 359.609985
+[2025.05.30-00.56.50:369][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 185704.203125
+[2025.05.30-00.56.51:369][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-00.56.51:369][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 185704.859375, Update Interval: 342.232727
+[2025.05.30-01.01.23:805][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP
+[2025.05.30-01.01.23:806][834]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.05.30-01.01.32:024][586]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.05.30-01.02.08:827][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.30-01.02.08:829][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.076
+[2025.05.30-01.02.08:830][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.02.08:840][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-01.02.08:840][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.02.08:845][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto2
+[2025.05.30-01.02.08:845][236]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP_Auto23CBEA1B343238A02040007B5FCCFCB83.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto2.uasset'
+[2025.05.30-01.02.08:847][236]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.05.30-01.02.14:421][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.02.14:483][774]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.02.14:483][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.02.14:489][774]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-01.02.14:489][774]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP8A4BADBD4471DE7BC0445EB7BAFFF08C.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-01.02.14:502][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.300 ms (total: 4.79 sec)
+[2025.05.30-01.02.14:567][774]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.02.14:567][774]LogContentValidation: Enabled validators:
+[2025.05.30-01.02.14:567][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.02.14:567][774]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.02.14:567][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.02.14:567][774]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.02.14:567][774]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.02.14:568][774]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.02.14:568][774]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-01.02.15:170][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.30-01.03.16:805][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 186138.562500
+[2025.05.30-01.03.16:915][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.03.16:916][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 186138.687500, Update Interval: 351.868042
+[2025.05.30-01.03.17:677][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.03.17:731][820]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.03.17:741][820]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-01.03.17:741][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.03.17:746][820]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-01.03.17:747][820]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP57FF32F64A69DD9E9E5139AF446CBA44.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-01.03.17:756][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.996 ms (total: 4.87 sec)
+[2025.05.30-01.03.17:814][820]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.03.17:814][820]LogContentValidation: Enabled validators:
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.03.17:814][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.03.17:814][820]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-01.04.54:328][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.30-01.04.55:317][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.04.55:380][740]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.04.55:389][740]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-01.04.55:389][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.04.55:394][740]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-01.04.55:395][740]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP37F515C04B0B63A6506C2B8471215814.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-01.04.55:405][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.457 ms (total: 4.96 sec)
+[2025.05.30-01.04.55:463][740]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.04.55:463][740]LogContentValidation: Enabled validators:
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.04.55:463][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.04.55:463][740]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-01.09.26:510][821]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-01.09.52:992][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 186677.109375
+[2025.05.30-01.09.53:078][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.09.53:079][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 186677.203125, Update Interval: 308.333374
+[2025.05.30-01.15.38:183][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187143.718750
+[2025.05.30-01.15.38:263][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.15.38:263][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187143.812500, Update Interval: 324.135864
+[2025.05.30-01.20.27:317][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.30-01.20.27:321][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.30-01.20.27:321][565]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-01.20.27:392][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-01.20.27:392][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-01.20.27:406][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turret_BP_Auto3
+[2025.05.30-01.20.27:407][565]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP_Auto323E7A9824DB4A388756073A0CC48FE5B.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turret_BP_Auto3.uasset'
+[2025.05.30-01.20.27:409][565]LogFileHelpers: Auto-saving content packages took 0.087
+[2025.05.30-01.21.03:512][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.21.03:564][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-01.21.03:650][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-01.21.03:650][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-01.21.03:650][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-01.21.03:663][955]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-01.21.03:664][955]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPF9EC6CAD4773EC0750A555BE7A8BA7EC.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-01.21.03:678][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.158 ms (total: 5.13 sec)
+[2025.05.30-01.21.03:746][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.21.03:746][955]LogContentValidation: Enabled validators:
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.21.03:746][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.21.03:746][955]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-01.21.04:180][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.30-01.21.10:577][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-01.21.10:586][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-01.21.10:586][279]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-01.21.10:589][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2025.05.30-01.21.10:589][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003325s)
+[2025.05.30-01.21.10:617][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.30-01.21.10:621][279]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-01.21.10:623][279]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2025.05.30-01.21.10:624][279]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-01.21.10:624][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-01.21.10:624][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-01.21.10:624][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-01.21.10:624][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-01.21.10:624][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-01.21.10:627][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-01.21.10:658][279]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-01.21.10:658][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-01.21.10:658][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-01.21.10:658][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-01.21.10:659][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.05.30-01.21.10:659][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.05.30-01.21.10:662][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.05.30-01.21.10:662][279]LogInit: FAudioDevice initialized with ID 15.
+[2025.05.30-01.21.10:662][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.05.30-01.21.10:662][279]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestEnvironment'.
+[2025.05.30-01.21.10:662][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.30-01.21.10:668][279]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-01.21.10:670][279]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-21.21.10
+[2025.05.30-01.21.10:670][279]LogWorld: Bringing up level for play took: 0.001544
+[2025.05.30-01.21.10:673][279]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.05.30-01.21.10:677][279]PIE: Server logged in
+[2025.05.30-01.21.10:678][279]PIE: Play in editor total start time 0.093 seconds.
+[2025.05.30-01.21.23:397][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-01.21.23:398][639]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-01.21.23:398][639]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-01.21.23:400][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-01.21.23:426][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-01.21.23:434][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-01.21.23:467][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-01.21.23:468][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.30-01.21.23:468][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.30-01.21.23:470][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.30-01.21.23:476][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-01.21.23:481][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.30-01.21.23:549][640]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.05.30-01.21.36:002][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187623.078125
+[2025.05.30-01.21.37:002][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.21.37:002][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187623.734375, Update Interval: 307.624756
+[2025.05.30-01.22.18:777][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.22.18:841][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-01.22.18:927][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-01.22.18:927][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-01.22.18:927][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-01.22.18:941][345]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-01.22.18:942][345]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BP3B3951DC43B4173DBD01C4ABF123DB63.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-01.22.18:952][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.913 ms (total: 5.30 sec)
+[2025.05.30-01.22.19:004][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.22.19:004][345]LogContentValidation: Enabled validators:
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.22.19:004][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.22.19:004][345]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-01.22.19:519][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.30-01.22.21:337][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-01.22.21:346][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-01.22.21:346][582]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-01.22.21:349][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003198s)
+[2025.05.30-01.22.21:349][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003240s)
+[2025.05.30-01.22.21:378][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.30-01.22.21:380][582]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-01.22.21:382][582]LogPlayLevel: PIE: World Init took: (0.001970s)
+[2025.05.30-01.22.21:383][582]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-01.22.21:383][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-01.22.21:383][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-01.22.21:383][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-01.22.21:383][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-01.22.21:383][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-01.22.21:385][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-01.22.21:411][582]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-01.22.21:411][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-01.22.21:411][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-01.22.21:412][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-01.22.21:413][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.05.30-01.22.21:413][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.05.30-01.22.21:415][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.05.30-01.22.21:415][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.05.30-01.22.21:415][582]LogInit: FAudioDevice initialized with ID 16.
+[2025.05.30-01.22.21:415][582]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestEnvironment'.
+[2025.05.30-01.22.21:415][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.30-01.22.21:478][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-01.22.21:478][582]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-01.22.21:480][582]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-21.22.21
+[2025.05.30-01.22.21:480][582]LogWorld: Bringing up level for play took: 0.002065
+[2025.05.30-01.22.21:483][582]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.05.30-01.22.21:489][582]PIE: Server logged in
+[2025.05.30-01.22.21:490][582]PIE: Play in editor total start time 0.145 seconds.
+[2025.05.30-01.22.30:907][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-01.22.30:907][839]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-01.22.30:908][839]LogSlate: Window 'Module_Two_Tutorial Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-01.22.30:970][839]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-01.22.30:972][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-01.22.31:001][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-01.22.31:009][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-01.22.31:034][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-01.22.31:034][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.30-01.22.31:035][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.30-01.22.31:037][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.30-01.22.31:046][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.30-01.22.31:180][840]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.05.30-01.23.48:269][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Player_Character.Player_Character
+[2025.05.30-01.23.48:270][291]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.05.30-01.27.28:595][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188188.250000
+[2025.05.30-01.27.28:670][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.27.28:670][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188188.375000, Update Interval: 324.595490
+[2025.05.30-01.29.20:892][631]LogSlate: Took 0.010245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.30-01.30.49:808][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.30-01.30.49:811][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.087
+[2025.05.30-01.30.49:812][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Player_Character] ([2] browsable assets)...
+[2025.05.30-01.30.49:812][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Player_Character]
+[2025.05.30-01.30.49:840][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/Player_Character_Auto4
+[2025.05.30-01.30.49:842][157]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Player_Character_Auto4FDB6FC00427D16E20FFEEFBFBD9FCFCA.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Player/Player_Character_Auto4.uasset'
+[2025.05.30-01.30.49:845][157]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.05.30-01.32.13:522][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-01.32.13:577][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Player_Character] ([2] browsable assets)...
+[2025.05.30-01.32.13:578][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Player_Character]
+[2025.05.30-01.32.13:578][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Character" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset" SILENT=true
+[2025.05.30-01.32.13:606][927]LogSavePackage: Moving output files for package: /Game/Player/Player_Character
+[2025.05.30-01.32.13:608][927]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Player_Character993C9B3749586033E0C70C9B8B9B40AB.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset'
+[2025.05.30-01.32.13:619][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.344 ms (total: 5.40 sec)
+[2025.05.30-01.32.13:674][927]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-01.32.13:674][927]LogContentValidation: Enabled validators:
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-01.32.13:674][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-01.32.13:674][927]AssetCheck: /Game/Player/Player_Character Validating asset
+[2025.05.30-01.32.14:195][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.05.30-01.33.33:014][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188766.734375
+[2025.05.30-01.33.34:014][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.33.34:015][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188767.390625, Update Interval: 318.924530
+[2025.05.30-01.39.24:079][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189112.250000
+[2025.05.30-01.39.25:079][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.39.25:079][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189112.906250, Update Interval: 305.709412
+[2025.05.30-01.41.47:203][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.30-01.41.47:208][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.033
+[2025.05.30-01.41.47:208][475]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.41.47:289][475]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-01.41.47:289][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.41.47:295][475]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto5
+[2025.05.30-01.41.47:295][475]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP_Auto568A23DB54726A53F14178CA5F25AE09F.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto5.uasset'
+[2025.05.30-01.41.47:296][475]LogFileHelpers: Auto-saving content packages took 0.087
+[2025.05.30-01.45.25:948][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189667.921875
+[2025.05.30-01.45.26:036][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.45.26:036][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189668.062500, Update Interval: 322.134460
+[2025.05.30-01.51.32:924][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190336.562500
+[2025.05.30-01.51.32:990][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.51.32:990][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190336.671875, Update Interval: 322.531799
+[2025.05.30-01.51.47:178][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.30-01.51.47:182][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.032
+[2025.05.30-01.51.47:182][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-01.51.47:272][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-01.51.47:272][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-01.51.47:278][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto6
+[2025.05.30-01.51.47:279][124]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP_Auto675BFE0F441F0B929DC8CF6ADAEB44BDC.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Enemies/Turret/Turrent_Proj_BP_Auto6.uasset'
+[2025.05.30-01.51.47:280][124]LogFileHelpers: Auto-saving content packages took 0.098
+[2025.05.30-01.57.44:475][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191009.265625
+[2025.05.30-01.57.44:559][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-01.57.44:559][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191009.406250, Update Interval: 327.975708
+[2025.05.30-02.01.45:423][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.01.45:487][206]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-02.01.45:571][206]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-02.01.45:571][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-02.01.45:579][206]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-02.01.45:580][206]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP14FB95DD426CE88C2C7613A5850748D6.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-02.01.45:590][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.980 ms (total: 5.57 sec)
+[2025.05.30-02.01.45:652][206]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.01.45:652][206]LogContentValidation: Enabled validators:
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.01.45:652][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.01.45:652][206]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-02.01.46:468][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.30-02.02.32:163][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.02.32:215][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-02.02.32:291][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-02.02.32:291][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-02.02.32:300][851]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-02.02.32:301][851]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BP0383CCA8435368ADD532BB8AE3C7FBF7.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-02.02.32:311][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.570 ms (total: 5.71 sec)
+[2025.05.30-02.02.32:364][851]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.02.32:364][851]LogContentValidation: Enabled validators:
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.02.32:364][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.02.32:364][851]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-02.02.32:952][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.30-02.03.54:784][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191619.875000
+[2025.05.30-02.03.54:850][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-02.03.54:850][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191619.984375, Update Interval: 351.840576
+[2025.05.30-02.04.53:370][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.30-02.04.53:373][776]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TestEnvironment' took 0.030
+[2025.05.30-02.04.53:374][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Player_Character] ([2] browsable assets)...
+[2025.05.30-02.04.53:374][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Player_Character]
+[2025.05.30-02.04.53:403][776]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/Player_Character_Auto7
+[2025.05.30-02.04.53:406][776]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Player_Character_Auto7D54D933C41DE1A33D05374B4DFD110DD.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Autosaves/Game/Player/Player_Character_Auto7.uasset'
+[2025.05.30-02.04.53:408][776]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.05.30-02.09.26:511][530]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-02.09.56:282][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.09.56:349][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Player_Character] ([2] browsable assets)...
+[2025.05.30-02.09.56:349][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Player_Character]
+[2025.05.30-02.09.56:349][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Character" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset" SILENT=true
+[2025.05.30-02.09.56:378][101]LogSavePackage: Moving output files for package: /Game/Player/Player_Character
+[2025.05.30-02.09.56:379][101]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Player_Character0B4CD1E64A9B0C42C66B19AD23F2FE02.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset'
+[2025.05.30-02.09.56:389][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.107 ms (total: 5.82 sec)
+[2025.05.30-02.09.56:449][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.09.56:449][101]LogContentValidation: Enabled validators:
+[2025.05.30-02.09.56:449][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.09.56:449][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.09.56:449][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.09.56:449][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.09.56:450][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.09.56:450][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.09.56:450][101]AssetCheck: /Game/Player/Player_Character Validating asset
+[2025.05.30-02.10.33:124][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192295.625000
+[2025.05.30-02.10.33:191][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-02.10.33:191][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192295.734375, Update Interval: 322.742401
+[2025.05.30-02.16.38:609][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.16.38:674][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Player_Character] ([2] browsable assets)...
+[2025.05.30-02.16.38:675][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Player_Character]
+[2025.05.30-02.16.38:675][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Character" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset" SILENT=true
+[2025.05.30-02.16.38:704][141]LogSavePackage: Moving output files for package: /Game/Player/Player_Character
+[2025.05.30-02.16.38:705][141]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Player_Character5D53E6C84A397B06F44F39B4F3AF1A6D.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Player_Character.uasset'
+[2025.05.30-02.16.38:719][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.420 ms (total: 5.93 sec)
+[2025.05.30-02.16.38:775][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.16.38:775][141]LogContentValidation: Enabled validators:
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.16.38:775][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.16.38:775][141]AssetCheck: /Game/Player/Player_Character Validating asset
+[2025.05.30-02.16.39:331][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.05.30-02.16.45:284][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192926.906250
+[2025.05.30-02.16.45:386][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-02.16.45:386][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192927.078125, Update Interval: 347.881714
+[2025.05.30-02.18.11:016][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.18.11:084][592]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-02.18.11:167][592]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-02.18.11:167][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-02.18.11:176][592]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-02.18.11:177][592]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BPDBC4A9354DF61CC09254DB9916433043.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-02.18.11:189][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.248 ms (total: 6.10 sec)
+[2025.05.30-02.18.11:232][592]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.18.11:232][592]LogContentValidation: Enabled validators:
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.18.11:232][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.18.11:232][592]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-02.18.11:770][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.30-02.18.35:538][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.30-02.18.35:538][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.30-02.18.35:540][376]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.StaticMeshActor_1
+[2025.05.30-02.18.35:541][376]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Map/TestEnvironment.TestEnvironment:PersistentLevel.StaticMeshActor_1
+[2025.05.30-02.19.12:542][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.19.12:715][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.30-02.19.12:736][274]LogSavePackage: Moving output files for package: /Game/Map/TestEnvironment
+[2025.05.30-02.19.12:737][274]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/TestEnvironment8F1751C0464372607B975D8BFEAD1042.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Map/TestEnvironment.umap'
+[2025.05.30-02.19.12:755][274]LogFileHelpers: Saving map 'TestEnvironment' took 0.104
+[2025.05.30-02.19.12:762][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.799 ms (total: 6.33 sec)
+[2025.05.30-02.19.12:828][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.19.12:828][274]LogContentValidation: Enabled validators:
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.19.12:828][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.19.12:829][274]AssetCheck: /Game/Map/TestEnvironment Validating asset
+[2025.05.30-02.19.15:054][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-02.19.15:063][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-02.19.15:102][337]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.19.15:105][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2025.05.30-02.19.15:105][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003260s)
+[2025.05.30-02.19.15:130][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.30-02.19.15:131][337]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-02.19.15:133][337]LogPlayLevel: PIE: World Init took: (0.002007s)
+[2025.05.30-02.19.15:135][337]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-02.19.15:135][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-02.19.15:135][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-02.19.15:135][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-02.19.15:135][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-02.19.15:135][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-02.19.15:138][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-02.19.15:165][337]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-02.19.15:165][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-02.19.15:165][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-02.19.15:165][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-02.19.15:168][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.05.30-02.19.15:168][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.05.30-02.19.15:170][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.05.30-02.19.15:170][337]LogInit: FAudioDevice initialized with ID 17.
+[2025.05.30-02.19.15:170][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.05.30-02.19.15:170][337]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestEnvironment'.
+[2025.05.30-02.19.15:170][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.30-02.19.15:173][337]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-02.19.15:175][337]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-22.19.15
+[2025.05.30-02.19.15:175][337]LogWorld: Bringing up level for play took: 0.001553
+[2025.05.30-02.19.15:178][337]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.05.30-02.19.15:181][337]PIE: Server logged in
+[2025.05.30-02.19.15:182][337]PIE: Play in editor total start time 0.12 seconds.
+[2025.05.30-02.19.33:003][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.19.33:003][855]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.19.33:003][855]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.33:004][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.33:035][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-02.19.33:043][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.33:070][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.19.33:071][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.30-02.19.33:071][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.30-02.19.33:073][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.30-02.19.33:083][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.30-02.19.33:192][856]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.05.30-02.20.13:052][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.20.13:108][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turrent_Proj_BP] ([2] browsable assets)...
+[2025.05.30-02.20.13:207][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turrent_Proj_BP.Turrent_Proj_BP]
+[2025.05.30-02.20.13:208][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turrent_Proj_BP]
+[2025.05.30-02.20.13:216][684]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turrent_Proj_BP
+[2025.05.30-02.20.13:217][684]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turrent_Proj_BPE0937A3242F6205FB9FDFC8D049C7C94.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset'
+[2025.05.30-02.20.13:228][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.310 ms (total: 6.50 sec)
+[2025.05.30-02.20.13:289][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.20.13:289][684]LogContentValidation: Enabled validators:
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.20.13:289][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.20.13:290][684]AssetCheck: /Game/Enemies/Turret/Turrent_Proj_BP Validating asset
+[2025.05.30-02.20.13:779][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.30-02.20.15:081][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-02.20.15:089][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-02.20.15:089][817]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.20.15:093][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2025.05.30-02.20.15:093][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003226s)
+[2025.05.30-02.20.15:122][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.30-02.20.15:127][817]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-02.20.15:129][817]LogPlayLevel: PIE: World Init took: (0.001914s)
+[2025.05.30-02.20.15:130][817]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-02.20.15:130][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-02.20.15:130][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-02.20.15:130][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-02.20.15:130][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-02.20.15:130][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-02.20.15:133][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-02.20.15:159][817]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-02.20.15:159][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-02.20.15:159][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-02.20.15:159][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-02.20.15:160][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.05.30-02.20.15:160][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.05.30-02.20.15:163][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.05.30-02.20.15:163][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.05.30-02.20.15:163][817]LogInit: FAudioDevice initialized with ID 18.
+[2025.05.30-02.20.15:163][817]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestEnvironment'.
+[2025.05.30-02.20.15:163][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.30-02.20.15:231][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.20.15:232][817]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-02.20.15:233][817]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-22.20.15
+[2025.05.30-02.20.15:234][817]LogWorld: Bringing up level for play took: 0.001763
+[2025.05.30-02.20.15:236][817]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.30-02.20.15:242][817]PIE: Server logged in
+[2025.05.30-02.20.15:244][817]PIE: Play in editor total start time 0.155 seconds.
+[2025.05.30-02.20.32:442][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.20.32:442][294]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.20.32:443][294]LogSlate: Window 'Module_Two_Tutorial Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-02.20.32:511][294]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.20.32:511][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.20.32:516][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-02.20.32:524][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.20.32:551][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-02.20.32:551][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.30-02.20.32:551][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.30-02.20.32:553][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.30-02.20.32:561][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.30-02.20.32:659][295]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.30-02.20.55:037][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.20.55:082][578]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/Turret/Turret_BP] ([2] browsable assets)...
+[2025.05.30-02.20.55:175][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Turret/Turret_BP.Turret_BP]
+[2025.05.30-02.20.55:175][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Turret/Turret_BP]
+[2025.05.30-02.20.55:175][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Turret/Turret_BP" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset" SILENT=true
+[2025.05.30-02.20.55:189][578]LogSavePackage: Moving output files for package: /Game/Enemies/Turret/Turret_BP
+[2025.05.30-02.20.55:190][578]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Saved/Turret_BPCB1C19894FAB3324015795BC6A455685.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset'
+[2025.05.30-02.20.55:199][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.041 ms (total: 6.66 sec)
+[2025.05.30-02.20.55:266][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-02.20.55:266][578]LogContentValidation: Enabled validators:
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.20.55:266][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.20.55:266][578]AssetCheck: /Game/Enemies/Turret/Turret_BP Validating asset
+[2025.05.30-02.20.55:867][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.30-02.20.57:302][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.30-02.20.57:310][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-02.20.57:311][756]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.20.57:314][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003370s)
+[2025.05.30-02.20.57:314][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TestEnvironment.TestEnvironment to /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment (0.003414s)
+[2025.05.30-02.20.57:343][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.30-02.20.57:346][756]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2025.05.30-02.20.57:348][756]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2025.05.30-02.20.57:349][756]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-02.20.57:349][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-02.20.57:349][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-02.20.57:349][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-02.20.57:349][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-02.20.57:349][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-02.20.57:352][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-02.20.57:380][756]LogAudioMixer: Display: Using Audio Hardware Device Headphones (5- High Definition Audio Device)
+[2025.05.30-02.20.57:380][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-02.20.57:380][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-02.20.57:380][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-02.20.57:381][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.05.30-02.20.57:381][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.05.30-02.20.57:384][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.05.30-02.20.57:384][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.05.30-02.20.57:384][756]LogInit: FAudioDevice initialized with ID 19.
+[2025.05.30-02.20.57:384][756]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestEnvironment'.
+[2025.05.30-02.20.57:384][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.30-02.20.57:435][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.20.57:436][756]LogLoad: Game class is 'Game_Mode_C'
+[2025.05.30-02.20.57:437][756]LogWorld: Bringing World /Game/Map/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2025.05.29-22.20.57
+[2025.05.30-02.20.57:438][756]LogWorld: Bringing up level for play took: 0.001760
+[2025.05.30-02.20.57:441][756]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.05.30-02.20.57:446][756]PIE: Server logged in
+[2025.05.30-02.20.57:448][756]PIE: Play in editor total start time 0.138 seconds.
+[2025.05.30-02.21.13:923][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-02.21.13:923][226]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TestEnvironment
+[2025.05.30-02.21.13:924][226]LogSlate: Window 'Module_Two_Tutorial Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-02.21.14:005][226]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.21.14:005][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.21.14:036][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-02.21.14:044][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.21.14:071][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-02.21.14:071][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.30-02.21.14:071][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.30-02.21.14:073][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.30-02.21.14:082][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.30-02.21.14:258][227]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.05.30-02.23.23:071][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193403.140625
+[2025.05.30-02.23.24:071][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-02.23.24:071][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193403.796875, Update Interval: 349.972839
+[2025.05.30-02.24.13:952][756]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.30-02.24.14:077][756]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.30-02.24.14:078][756]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22312
+[2025.05.30-02.24.14:411][757]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.30-02.24.14:413][757]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{aaa75565-2ca4-4d2a-a55e-008157a33d55}, Name=Headphones (5- High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=30.53
+[2025.05.30-02.24.14:413][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.30-02.24.14:415][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.30-21.15.32:220][770]LogAutomationController: Ignoring very large delta of 67877.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 0 (Too old connection (67876 seconds idle), disconnect it)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 1 (Connection 25 seems to be dead)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 2 (Closing connection)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.30-21.15.32:220][770]LogHttp: Warning: 00000A7CC7CCF500: libcurl info message cache 5 (Closing connection)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1E90CCEC-4E34-78B0-60C6-118239F2D8C1%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 0 (Too old connection (67877 seconds idle), disconnect it)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 1 (Connection 275 seems to be dead)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 2 (Closing connection)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: 00000A7CC9AF1E00: libcurl info message cache 5 (Closing connection)
+[2025.05.30-21.15.32:221][770]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1E90CCEC-4E34-78B0-60C6-118239F2D8C1%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.30-21.15.58:876][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 261360.375000
+[2025.05.30-21.15.59:876][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.15.59:876][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 261361.031250, Update Interval: 323.480347

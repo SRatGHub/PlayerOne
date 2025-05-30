@@ -18,7 +18,9 @@
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Player/Game_Mode.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Interactables/Interact.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Interactables/PhysicsPickup.uasset",
-				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Interactables/Animated_Interactables/Door_BP.uasset"
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Interactables/Animated_Interactables/Door_BP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turret_BP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Module_Two_Tutorial/Content/Enemies/Turret/Turrent_Proj_BP.uasset"
 			]
 		}
 	]
